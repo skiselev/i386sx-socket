@@ -1,6 +1,8 @@
 # i386sx-socket
 386SX Universal Socket Adapter for the [Alsea River 386SX Motherboard](https://github.com/skiselev/mb386sx-rc2016)
 
+![386SX Universal Socket Adapter Assembled Board](images/i386sx-socket-top-side-with-mounted-cpu.jpg)
+
 ## Hardware Documentation
 
 ### Schematic and PCB Layout
